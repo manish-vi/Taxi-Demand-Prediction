@@ -4,7 +4,7 @@
 For a given location in New York City, our goal is to predict the number of pickups in that given location. The taxi driver uses prediction to move to the locations where predicted pickups are high.
 
 ## Objectives & Constraints 
-__Objectives:__ Our objective is to To find number of pickups, given location cordinates(latitude and longitude) and time, in the query reigion and surrounding regions.To solve the above we would be using data collected in Jan - Mar 2015 to predict the pickups in Jan - Mar 2016.
+__Objectives:__ Our objective is to To find the number of pickups, given location coordinates(latitude and longitude) and time, in the query region and surrounding regions. To solve the above we would be using data collected in Jan - Mar 2015 to predict the pickups in Jan - Mar 2016.
 
 __Constraints:__ 
 * __Latency__ Given a location and current time a taxi driver excepts to get the predicted demands in his/her neighboring region in a few seconds. Hence, there is a medium latency requirement.
