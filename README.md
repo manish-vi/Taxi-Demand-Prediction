@@ -1,6 +1,6 @@
 # Taxi Demand Prediction New York City
 
-## Business Problem/Problem Statement
+## Problem Statement
 For a given location in New York City, our goal is to predict the number of pickups in that given location. The taxi driver uses prediction to move to the locations where predicted pickups are high.
 
 ## Objectives & Constraints 
