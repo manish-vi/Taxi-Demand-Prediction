@@ -42,6 +42,5 @@ You need to have installed following softwares and libraries in your machine bef
 * __gpxpy:__ It is used while we calculate the straight line distance between two (latitude, longitude) pairs in miles.
     * i) pip install gpxpy
 
-
 ## Authors
 •	Manish Vishwakarma - Complete work  
